@@ -4,6 +4,8 @@ description: 基本信息
 
 # 基本信息
 
+Token總量上限1億
+
 ## Token的分發比例：
 
 ### 融資：10%
